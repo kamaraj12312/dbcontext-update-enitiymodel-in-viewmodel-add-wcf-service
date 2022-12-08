@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="dbcontext_view_add_viewModel.Service1" CodeBehind="Service1.svc.cs" %>
